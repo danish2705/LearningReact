@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  background-color: aliceblue;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+div {
+  background-color: brown;
+  border-radius: 5px;
+  padding: 20px;
+}
+input {
+  color: black;
+  margin: 2px;
+}
+span {
+  color: black;
+}
+option {
+  margin: 30px;
+}
+p {
+  color: black;
+}
